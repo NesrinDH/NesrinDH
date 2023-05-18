@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nesrine Dhhiri</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Learning all about Web development**
+- 🌱 I’m currently learning **All about Web development**
 
 - 💬 Ask me about **ReactJs, NodeJs, ExpressJs, MongoDB**
 
